@@ -1,6 +1,7 @@
 import java.lang.Math.*;
 
 public class PointCP4 {
+
 	
 	//les attributs
 	
@@ -19,6 +20,7 @@ public class PointCP4 {
 
 
 // les getteurs 
+
     public double getX() {
         return x;
     }
@@ -27,12 +29,13 @@ public class PointCP4 {
         return y;
     }
 
+
     public double getRho() {
         return rho;
     }
 
     public double getTheta() {
         return theta;
-    }
+
 
 }

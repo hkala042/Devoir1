@@ -1,3 +1,4 @@
+
 import java.lang.Math.*;
 
 public class PointCP3 {
@@ -16,6 +17,7 @@ public class PointCP3 {
     public double getY() {
         return y;
     }
+
 	
 	public double getRho(){
 		return (Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2)));
@@ -25,5 +27,5 @@ public class PointCP3 {
 		return Math.toDegrees(Math.atan2(y, x));
 	}
 
-    
+
 }
