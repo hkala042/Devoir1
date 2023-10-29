@@ -1,0 +1,410 @@
+// design5 test 
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>javac PointCPTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+38.701364650162965
+39.9423477012231
+55.61642532265343
+45.90404163808206
+
+62.94933407896001
+69.6956290413183
+93.91538408828218
+47.91154259368597
+
+
+
+//*********************************************
+//design2 Test
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design2>java PointCPTest
+59.5084747697469
+60.18285077898453
+84.63589130686296
+45.32281779901389
+
+
+//design 3 Test
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design3>javac PointCPTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design3>java PointCPTest
+3.2279390348109893
+35.04443464277731
+35.19278320685005
+84.73734170808744
+
+
+//design 4 Test 
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design4>javac PointCPTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design4>java PointCPTest
+1.1838071029103836
+39.28333070815941
+67.63374014840672
+50.029369938533655
+
+
+
+// design 1 séries de test pour calcul de temps 
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>javac PointCPTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+1.5084088269102458
+66.8993227446712
+66.9163259667234
+88.70834539701744
+
+29.80725080077344
+20.57043530806907
+36.216225770552946
+34.610144868726536
+
+ Execcution time is 5
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+59.44196705788104
+41.333541417197736
+72.4003390447684
+34.81319043630674
+
+6.3714583260062545
+51.901247741225774
+52.290869167533714
+83.00131983253945
+
+ Execcution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+94.91288514627828
+58.63661655675023
+111.5648177877505
+31.70752594489928
+
+7.413970598500397
+24.794074567089346
+25.878815538463407
+73.35218481773605
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+70.02048606417569
+88.74232107396548
+113.04011685352329
+51.72544799742254
+
+10.341728138440342
+20.67456370501319
+23.116853706377462
+63.425092015047746
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+1.0732218448910702
+12.05992875634825
+12.107587981780137
+84.91460295796689
+
+55.939475860751955
+60.18459904461346
+82.16696977336171
+47.093617359169315
+
+ Execcution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+41.29228872274875
+61.67578551388243
+74.22233913531204
+56.197466802383516
+
+65.34779680992577
+46.37847157747743
+80.13299678518348
+35.36398713244072
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+42.590433988132084
+54.721786669051944
+69.34276460850596
+52.10607311672694
+
+17.893530225786353
+50.052614211285
+53.15489265650773
+70.32831355331997
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+85.38915746386387
+72.62357212262329
+112.09590286999077
+40.38120052855782
+
+50.39212233146736
+26.119477414525413
+56.75907939244148
+27.398818985818142
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+30.530813359357335
+74.49857068058041
+80.51190966455427
+67.71532616199178
+
+-4.078488330514456
+52.290655754086565
+52.44946850306997
+94.4598413620313
+
+ Execcution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java PointCPTest
+65.64767209777558
+83.08267071172438
+105.8883705817116
+51.68601557245183
+
+14.483316045699127
+36.58644854730009
+39.34888385944184
+68.40309174293984
+
+ Execcution time is 2
+ 
+ La moyenne est de 2.5 millisecondes 
+ 
+ 
+ // design 5 série de 11 test pour calculer la moyenne du temps d'exécution 
+ 
+ C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>javac PointCPTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+91.23153692999321
+97.57958193225974
+133.58505957135816
+46.92562406225649
+
+12.150226525624035
+20.931761048970536
+24.20261608246468
+59.86618771926889
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+95.79487838092761
+7.361300885860967
+96.07729947676968
+4.394224544323056
+
+14.847753324505836
+5.565089465772965
+15.85641824459204
+20.546510852864188
+
+ Execcution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+31.081723804490924
+45.208086073270756
+54.86205064584184
+55.49047473583306
+
+57.49625920190623
+55.302626914576294
+79.77593851447693
+43.88589298071043
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+97.7437410406036
+0.297633576751577
+97.74419419258919
+0.1744673868718002
+
+65.39095892856967
+10.112915599768353
+66.16833511224175
+8.79132330933211
+
+ Execcution time is 1
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+9.939042921841356
+4.258828881266075
+10.813056813043701
+23.194884474832435
+
+5.050357682516017
+2.4387830663038783
+5.60836656842606
+25.77557781459382
+
+ Execcution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+61.46559503568194
+79.47248358671408
+100.46837821190799
+52.28092242913916
+
+16.22627401448964
+74.26040159185268
+76.01249379527381
+77.67430617675939
+
+ Execcution time is 1
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+88.61773464250017
+20.591031849544127
+90.97853310423022
+13.081009048345498
+
+24.725281356459444
+22.416836882586622
+33.37445301389338
+42.196592639928
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+0.8693057485224975
+11.086565334124831
+11.120594561093965
+85.51656914560613
+
+23.996637246643054
+46.62741421464348
+52.4400072033835
+62.76754147438473
+
+ Execcution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+31.227299866807467
+53.933510720402545
+62.3214877518123
+59.92932006589928
+
+16.90639977064817
+5.229406343624314
+17.696695847296205
+17.18763286507462
+
+ Execcution time is 1
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+79.27275241603736
+13.003081991892419
+80.33211945979164
+9.315253338199286
+
+9.182933368269808
+1.224686505954004
+9.264238893937748
+7.5964542185403605
+
+ Execcution time is 1
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java PointCPTest
+20.11821844258439
+82.33589707267663
+84.75814214614394
+76.26920439239233
+
+1.3462284836551117
+7.146532343277594
+7.272224945896344
+79.33191774939739
+
+ Execcution time is 2
+ 
+ La moyenne est de 1.8 millisecondes 
+ 
+ 
+ 
+ // Série de 10 Test du design 5 avec 1000 points 
+ C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>javac BigTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 4
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>javac BigTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 1
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design5>java BigTest
+ Execution time is 2
+ 
+ UNE MOYENNE DE 2.1 millisecondes
+ 
+ 
+ // Série de 10 Test du design 1 avec 1000 points 
+ 
+ C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>javac BigTest.java
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 4
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 3
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 2
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 4
+
+C:\Users\asus\OneDrive - University of Ottawa\Desktop\Devoir1\pointcp\design1(original)>java BigTest
+ Execution time is 2
+ 
+ UNE MOYENNE DE 2.8 millisecondes

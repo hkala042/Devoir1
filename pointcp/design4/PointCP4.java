@@ -1,17 +1,25 @@
 import java.lang.Math.*;
 
 public class PointCP4 {
-    public double x;
-    public double y;
-    public double r;
-    public double o;
 
-    public PointCP4(double x, double y, double r, double o) {
+	
+	//les attributs
+	
+    private double x;
+    private double y;
+    private double rho;
+    private double theta;
+
+// le constructeur
+    public PointCP4(double x, double y, double rho, double theta) {
         this.x = x;
         this.y = y;
-        this.r = r;
-        thi.o = o;
+        this.rho = rho;
+        this.theta = theta;
     }
+
+
+// les getteurs 
 
     public double getX() {
         return x;
@@ -21,12 +29,13 @@ public class PointCP4 {
         return y;
     }
 
-    public double getR() {
-        return r;
+
+    public double getRho() {
+        return rho;
     }
 
-    public double getO() {
-        return o;
-    }
+    public double getTheta() {
+        return theta;
+
 
 }

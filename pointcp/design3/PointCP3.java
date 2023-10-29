@@ -1,4 +1,5 @@
-import java.lang.math.*;
+
+import java.lang.Math.*;
 
 public class PointCP3 {
     public double x;
@@ -17,7 +18,14 @@ public class PointCP3 {
         return y;
     }
 
-    public void convertStorageToPolar() {
+	
+	public double getRho(){
+		return (Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2)));
+	}
+	
+	public double getTheta(){
+		return Math.toDegrees(Math.atan2(y, x));
+	}
 
-    }
+
 }
